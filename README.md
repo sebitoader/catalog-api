@@ -1,4 +1,4 @@
-# catalog-produse — Exercitiu tehnic SoftPrim
+# catalog-produse
 
 API REST pentru catalog produse si plasare comenzi, construit cu Node.js si MySQL.
 
